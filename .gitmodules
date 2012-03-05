@@ -1,0 +1,12 @@
+[submodule "armageddon"]
+	path = armageddon
+	url = git@github.com:sunkid/Armageddon.git
+[submodule "base"]
+	path = base
+	url = git@github.com:sunkid/BaseBukkitPlugin.git
+[submodule "creativestick"]
+	path = creativestick
+	url = git@github.com:sunkid/CreativeStick.git
+[submodule "worldmodes"]
+	path = worldmodes
+	url = git@github.com:sunkid/WorldModes.git
